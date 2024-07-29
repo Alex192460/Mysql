@@ -1,4 +1,3 @@
-git add filename add to stagged
 git commit -m message
 git log/ git show --stat for show the commoted file
 git reset head filename for turn back file from stagged to modefied 
